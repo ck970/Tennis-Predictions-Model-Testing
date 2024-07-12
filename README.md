@@ -1,5 +1,5 @@
-# Tennis-Predictions-Neural-Network
-Application of Artificial Neural Network Model to Predicting Outcomes of Professional Tennis Matches
+# Tennis-Predictions-Model-Testing
+Studying Effectiveness of Various Classification Models at Predicting Outcomes of Professional Tennis Matches (Men's Singles)
 
 
 Data:
