@@ -13,7 +13,6 @@ Data:
 
 Additional Resources:
   - https://dataheadhunters.com/academy/how-to-build-a-predictive-analytics-tool-in-python-for-sports-management/
-  - https://shorturl.at/3cYod
   - https://www.sciencedirect.com/science/article/abs/pii/S0169207011000914#preview-section-abstract
   - https://www.sciencedirect.com/science/article/abs/pii/S0950705106000724
   - https://www.sciencedirect.com/science/article/pii/S2772662223001364?ref=pdf_download&fr=RR-2&rr=8a11d11a6c5d43c4
